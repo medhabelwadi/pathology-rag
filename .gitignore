@@ -1,0 +1,13 @@
+# Source textbook and text extracted from it are copyrighted; keep them out of the repo
+*.pdf
+dataset.txt
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# macOS
+.DS_Store
